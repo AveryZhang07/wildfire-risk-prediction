@@ -1,0 +1,15 @@
+# ---- Data files ----
+data/
+*.csv
+
+# ---- Colab ----
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_checkpoint
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- OS / Misc ----
+.DS_Store
